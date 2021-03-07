@@ -1,16 +1,8 @@
 package com.ligang;
 
-import java.lang.management.ManagementFactory;
-import java.lang.management.ThreadInfo;
-import java.lang.management.ThreadMXBean;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.Period;
-import java.time.format.DateTimeFormatter;
-import java.util.Date;
-
 public class demo01 {
     public static void main(String[] args) {
+
 //        LocalDate today = LocalDate.now();
 //        Date date = new Date();
 //        System.out.println(date);
